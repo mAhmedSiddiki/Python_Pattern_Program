@@ -1,10 +1,10 @@
 # Python_Pattern_Program
 here you find all code in pattern..and all program is made python language's...
 
-for video tutorial:- http://bit.ly/pythonpattern
+for video tutorial:- https://www.youtube.com/playlist?list=PLTgx8WgkaUw5OshLPgiblglUkF3_cXK5s
 
 created by: Marjuk Ahmed Siddiki Computer Science And Engineering Daffodil International University
 
-contact: http://bit.ly/363RLc9
+contact: https://marjuk-ahmed-siddiki.github.io/marjuk.github.io/
 
 linkedin:- https://www.linkedin.com/in/marjukahmed 
